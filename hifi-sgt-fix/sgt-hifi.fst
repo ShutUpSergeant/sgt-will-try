@@ -1,0 +1,106 @@
+name = sgt-hifi
+type = body+head
+scale = 1
+filename = sgt-hifi/sgt-hifi.fbx
+texdir = sgt-hifi/textures
+joint = jointNeck = Neck
+joint = jointEyeLeft = Leye
+joint = jointRightHand = RightHand
+joint = jointRoot = Hips
+joint = jointLean = Spine
+joint = jointEyeRight = Reye
+joint = jointHead = Head
+joint = jointLeftHand = LeftHand
+freeJoint = LeftArm
+freeJoint = LeftForeArm
+freeJoint = RightArm
+freeJoint = RightForeArm
+jointIndex = Spine2 = 20
+jointIndex = Cube.000 = 3
+jointIndex = RightHandRing4_end = 34
+jointIndex = LeftHandMiddle4_end = 68
+jointIndex = RightHandMiddle3 = 37
+jointIndex = RightForeArm = 23
+jointIndex = LeftHandIndex4 = 72
+jointIndex = LeftHandThumb4 = 77
+jointIndex = Hips = 5
+jointIndex = RightHandMiddle2 = 36
+jointIndex = RightFoot = 8
+jointIndex = RightHandThumb2 = 46
+jointIndex = LeftHandThumb1 = 74
+jointIndex = LeftFoot = 14
+jointIndex = LeftArm = 51
+jointIndex = LeftHandRing2 = 60
+jointIndex = LeftToe_End_end = 17
+jointIndex = LeftHand = 53
+jointIndex = RightHandThumb1 = 45
+jointIndex = Reye_end = 84
+jointIndex = RightHandIndex3 = 42
+jointIndex = RightToe_End = 10
+jointIndex = RightHandRing1 = 30
+jointIndex = RightHandPinky4 = 28
+jointIndex = RightHandIndex1 = 40
+jointIndex = RightHandMiddle4_end = 39
+jointIndex = LeftHandIndex3 = 71
+jointIndex = Reye = 83
+jointIndex = Plane = 1
+jointIndex = LeftHandRing1 = 59
+jointIndex = LeftHandMiddle4 = 67
+jointIndex = RightHandMiddle4 = 38
+jointIndex = LeftHandPinky4_end = 58
+jointIndex = RightHandIndex4_end = 44
+jointIndex = Spine = 18
+jointIndex = LeftHandIndex4_end = 73
+jointIndex = HeadTop_End_end = 86
+jointIndex = Armature = 4
+jointIndex = LeftHandPinky1 = 54
+jointIndex = RightHandThumb3 = 47
+jointIndex = Circle = 87
+jointIndex = RightHandPinky1 = 25
+jointIndex = LeftHandThumb2 = 75
+jointIndex = LeftHandMiddle2 = 65
+jointIndex = RightHandIndex4 = 43
+jointIndex = RightArm = 22
+jointIndex = Spine1 = 19
+jointIndex = Head = 80
+jointIndex = LeftToe_End = 16
+jointIndex = Leye = 81
+jointIndex = Leye_end = 82
+jointIndex = Sun = 0
+jointIndex = RightHandRing2 = 31
+jointIndex = RightHand = 24
+jointIndex = LeftUpLeg = 12
+jointIndex = LeftHandPinky3 = 56
+jointIndex = RightHandRing3 = 32
+jointIndex = LeftHandPinky2 = 55
+jointIndex = LeftHandIndex1 = 69
+jointIndex = LeftHandIndex2 = 70
+jointIndex = LeftToeBase = 15
+jointIndex = LeftHandRing4_end = 63
+jointIndex = LeftForeArm = 52
+jointIndex = Circle.001 = 88
+jointIndex = LeftHandPinky4 = 57
+jointIndex = LeftShoulder = 50
+jointIndex = LeftHandThumb4_end = 78
+jointIndex = Cube.002 = 2
+jointIndex = RightUpLeg = 6
+jointIndex = RightToeBase = 9
+jointIndex = RightLeg = 7
+jointIndex = LeftHandRing4 = 62
+jointIndex = RightHandThumb4 = 48
+jointIndex = LeftHandMiddle1 = 64
+jointIndex = LeftHandRing3 = 61
+jointIndex = RightHandThumb4_end = 49
+jointIndex = RightHandPinky4_end = 29
+jointIndex = Neck = 79
+jointIndex = LeftHandMiddle3 = 66
+jointIndex = LeftHandThumb3 = 76
+jointIndex = RightHandIndex2 = 41
+jointIndex = RightHandPinky2 = 26
+jointIndex = RightToe_End_end = 11
+jointIndex = RightShoulder = 21
+jointIndex = RightHandRing4 = 33
+jointIndex = LeftLeg = 13
+jointIndex = RightHandMiddle1 = 35
+jointIndex = HeadTop_End = 85
+jointIndex = RightHandPinky3 = 27
